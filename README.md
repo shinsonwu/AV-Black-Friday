@@ -9,4 +9,4 @@ The challenge was to predict purchase prices of various products purchased by cu
 2. Added a new variable in Excel with mean of each product
 3. Converted all categorical variable in one hot encoded categories
 4. Built an XGB over it and optimized parameters
-5. Got a RMSE of 2465, Public Leader Board Ranking 7
+5. Got a RMSE of 2465, Public Leader Board Ranking 7 , Private Leaderboard Ranking 5
